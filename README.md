@@ -1,5 +1,5 @@
 # Python-portfolio-MariaTirado
-Python scripts and notebooks for data wrangling, exploratory analysis, visualization, and machine learning. Created as part of my Data Analytics training.
+Python scripts and notebooks for data wrangling, exploratory analysis and visualization. Created as part of my Data Analytics training.
 Achievement 4 – Instacart Basket Analysis
 
 This repository contains the Python scripts, notebooks, and project deliverables for my Instacart Basket Analysis project.
@@ -25,8 +25,6 @@ This project includes:
 │   ├── Original Data
 │
 ├── 03 Scripts
-│   ├── UPDATE ❗️
-│   ├── 
 │
 ├── 04 Analysis
 │   ├── visuals
